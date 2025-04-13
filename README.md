@@ -1,6 +1,6 @@
 # TheMagicFlute.github.io - demo
 
-![deploy status](https://github.com/TheMagicFlute/TheMagicFlute.github.io/actions/workflows/deploy.yml/badge.svg)
+[![auto deploy](https://github.com/TheMagicFlute/demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/TheMagicFlute/demo/actions/workflows/deploy.yml)
 
 ## Description
 
